@@ -1,0 +1,17 @@
+show databases;
+create database CRUD_Project_1;
+use CRUD_Project_1;
+
+CREATE TABLE cust_details (
+    cust_id INT AUTO_INCREMENT PRIMARY KEY,
+    cust_name VARCHAR(100),
+    cust_address VARCHAR(255),
+    cust_ph_no VARCHAR(10),
+    user_id VARCHAR(50),
+    password VARCHAR(50)
+) AUTO_INCREMENT=1;
+
+#INSERT INTO cust_details (cust_name, cust_address, cust_ph_no, user_id, password)
+#VALUES ('Virat Kohli','Delhi','1234567891','Virat18','Virat@123'); #For Testing Purpose
+
+select * from cust_details;
