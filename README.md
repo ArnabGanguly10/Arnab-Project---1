@@ -8,6 +8,6 @@ This project allows users to create, read, update, and delete customer details u
 [Click here to view the project demo](https://drive.google.com/drive/folders/1VezKw4WzXC85UNOM-WGBjvVjGisL1Exb)
 
 ## Files Included
-- 'CRUD_Project_1.py'
+- 'Login_Authenticator.py'
 - 'Login_Auth_SQL.txt'
 - 'README.md'
