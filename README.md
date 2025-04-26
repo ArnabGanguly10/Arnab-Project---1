@@ -1,5 +1,5 @@
 # Login_Authenticator-Project
- Login_Authenticator-Project
+This is a Login Authenticator Project Using Python Programming and SQL Logics on the backend
 
 ## Project Description
 This project allows users to create, read, update, and delete customer details using Python and MySQL.
